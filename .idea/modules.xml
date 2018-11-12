@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DocCloudProject.iml" filepath="$PROJECT_DIR$/DocCloudProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doccloudweb/doccloudweb.iml" filepath="$PROJECT_DIR$/doccloudweb/doccloudweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DocCloudProject/docservicedeamon/docservicedeamon.iml" filepath="$PROJECT_DIR$/../DocCloudProject/docservicedeamon/docservicedeamon.iml" />
+    </modules>
+  </component>
+</project>

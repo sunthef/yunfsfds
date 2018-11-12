@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DocCloudProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DocCloudProject_jar</output-path>
+    <root id="archive" name="DocCloudProject.jar">
+      <element id="module-output" name="DocCloudProject" />
+    </root>
+  </artifact>
+</component>
